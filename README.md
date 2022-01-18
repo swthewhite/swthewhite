@@ -40,7 +40,7 @@
 
 # 프로젝트 레포지토리
 
-## [교과 프로젝트] (http://infocom.ssu.ac.kr)
+## [교과 프로젝트](http://infocom.ssu.ac.kr)
   * C 프로그래밍 프로젝트
     * [야구 게임](https://github.com/SWtheWhite/C-Baseballproject)
     * [허들 게임](https://github.com/SWtheWhite/C-Hurdleproject)
