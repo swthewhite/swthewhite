@@ -40,7 +40,7 @@
 
 # 프로젝트 레포지토리
 
-## 교과 프로젝트 [SoongSil-university-cs-url]
+## [교과 프로젝트] SoongSil-university-cs-url
   * C 프로그래밍 프로젝트
     * [야구 게임](https://github.com/SWtheWhite/C-Baseballproject)
     * [허들 게임](https://github.com/SWtheWhite/C-Hurdleproject)
@@ -50,7 +50,7 @@
   * 동아리 홈페이지 기획
   * 스마트농업 인공지능 경진대회 최우수상 수상 (소 축산 농가를 위한 통합 헬스케어 시스템)
   * 동아리방 스마트팜 제작
-  * [동아리 위키 제작](www.sscc.space)
+  * [동아리 위키 제작](http://www.sscc.space)
     
   ### Robotics
   * WVE
