@@ -52,7 +52,7 @@
   * [동아리 위키 제작](http://www.sscc.space)
     
   ### Robotics
-  * WVE
+  * [WVE](https://github.com/ika9810/WVE)
   * 스마트팜
 
 ## 개인 프로젝트
