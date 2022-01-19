@@ -5,6 +5,15 @@
     * Framework: __PyTorch__
   * 웹 개발을 공부하고 있습니다.
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSwtheWhite&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Github Followers](https://img.shields.io/github/followers/SwtheWhite?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/SwtheWhite?tab=followers)
+
+[![Github Profile](https://github-readme-stats.vercel.app/api?username=SwtheWhite&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/SwtheWhite)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwtheWhite&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SwtheWhite&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)  
+[![status](https://github-readme-streak-stats.herokuapp.com/?user=SwtheWhite)](#)
+
 ## 학교
   * (2018 ~ ) 숭실대학교 전자정보공학부 IT융합전공
 
