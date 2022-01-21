@@ -62,7 +62,7 @@
     
   ### Robotics
   * [WVE](https://github.com/ika9810/WVE)
-  * 스마트팜
+  * [스마트팜](https://swthewhite.github.io/SmartFarm/) [레포](https://github.com/SWtheWhite/SmartFarm)
 
 ## 개인 프로젝트
 
