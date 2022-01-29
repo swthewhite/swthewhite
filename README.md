@@ -23,7 +23,8 @@
   * (2021.01 ~ 2021.12) __SSCC 39대 회장__
     * C/Python 스터디장
     * 동아리 홈페이지 기획
-    * 스마트농업 인공지능 경진대회 최우수상 수상 (소 축산 농가를 위한 통합 헬스케어 시스템)
+    * [스마트농업 인공지능 경진대회 최우수상 수상](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=001&oid=003&aid=0010840259)
+      (소 축산 농가를 위한 통합 헬스케어 시스템)
     * 동아리방 스마트팜 제작
     * 동아리 위키 제작
 
@@ -48,10 +49,10 @@
 
 # 프로젝트s
 
-## [교과 프로젝트](http://infocom.ssu.ac.kr)
-  * C 프로그래밍 프로젝트
-    * [야구 게임](https://github.com/SWtheWhite/C-Baseballproject)
-    * [허들 게임](https://github.com/SWtheWhite/C-Hurdleproject)
+## [교과 프로젝트](http://infocom.ssu.ac.kr/kor/undergraduate/0203.php)
+  ### C 프로그래밍 프로젝트
+  * [야구 게임](https://github.com/SWtheWhite/C-Baseballproject)
+  * [허들 게임](https://github.com/SWtheWhite/C-Hurdleproject)
 
 ## 팀 프로젝트
   ### SSCC
@@ -65,7 +66,7 @@
   * [스마트팜](https://swthewhite.github.io/SmartFarm/): [레포](https://github.com/SWtheWhite/SmartFarm)
 
 ## 개인 프로젝트
-
+  * [EigenFace](https://github.com/SWtheWhite/EigenFace)
 
 
 #### 연락
