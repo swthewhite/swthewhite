@@ -61,7 +61,7 @@
     (소 축산 농가를 위한 통합 헬스케어 시스템)
   * 동아리방 스마트팜 제작
   * [동아리 위키 제작](http://www.sscc.space)
-  * [동아리 홍보사이트 제작](https://www.ssccpromotion.xyz)
+  * [동아리 홍보사이트 제작](https://ssccpromotion.xyz/)
     
   ### Robotics
   * [WVE](https://github.com/ika9810/WVE)
