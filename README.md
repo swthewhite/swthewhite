@@ -1,9 +1,7 @@
 # SW Baek (SWtheWhite)
 
   * __백승우 (Seungwoo Baek)__
-  * 인공지능 공부해보려고 합니다.
-    * Framework: __PyTorch__
-  * 웹 개발을 공부하고 있습니다.
+  * 이것저것 해보는 중
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSwtheWhite&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Github Followers](https://img.shields.io/github/followers/SwtheWhite?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/SWtheWhite?tab=followers)
