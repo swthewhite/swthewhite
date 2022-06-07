@@ -69,7 +69,7 @@ __백승우 (Seungwoo Baek)__
   * [동아리 위키 제작](http://www.sscc.space)
   * [동아리 홍보사이트 제작](https://ssccpromotion.xyz/)
   * 스마트동방 프로젝트 기획
-  * SSCC 아이디어톤 최우수상 (2nd)
+  * SSCC 아이디어톤 최우수상 
     (교통 소외 지역에 거주하는 주민을 위한 예약 버스 통합 솔루션)
     
   ### Robotics
