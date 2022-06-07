@@ -33,10 +33,10 @@ __백승우 (Seungwoo Baek)__
     * SSCC 아이디어톤 최우수상 수상
 
 ## 경험
-  * 언어: __C, Python,__ C++
+  * 언어: __C, Python, C++__
   * 딥러닝: __Pytorch__
   * OS: __Linux, Windows__
-  * 웹: __HTML, CSS, JavaScript,__ node.js
+  * 웹: __HTML, CSS, JavaScript,__ node.js, Flask
   * DB: SQLite
   * 도구: __Git, VS Code, Notion,__ VS
 
