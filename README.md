@@ -36,7 +36,7 @@ __백승우 (Seungwoo Baek)__
   * 언어: __C, Python, C++__
   * 딥러닝: __Pytorch__
   * OS: __Linux, Windows__
-  * 웹: __HTML, CSS, JavaScript,__ node.js, Flask
+  * 웹: __HTML, CSS, JavaScript,FastAPI,__ node.js, 
   * DB: SQLite
   * 도구: __Git, VS Code, Notion,__ VS
 
