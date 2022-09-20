@@ -32,7 +32,9 @@ __백승우 (Seungwoo Baek)__
     * 스마트동방 프로젝트 기획
     * SSCC 아이디어톤 최우수상 수상
     * 숭실 캡스톤디자인 경진대회 장려상 수상
-  * (2022.08 ~
+  * (2022.06 ~ 2022.08) SSMOBILITY 현장실습
+    * TensorFlowTTS 실습
+    * 음성합성TTS Server 구축 (FastAPI with NaverCloud)
 
 ## 경험
   * 언어: __C, Python, C++__
