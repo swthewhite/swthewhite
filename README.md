@@ -31,12 +31,15 @@ __백승우 (Seungwoo Baek)__
     * [동아리 홍보사이트 제작](https://ssccpromotion.xyz/)
     * 스마트동방 프로젝트 기획
     * SSCC 아이디어톤 최우수상 수상
+    * 숭실 캡스톤디자인 경진대회 장려상 수상
+  * (2022.08 ~
 
 ## 경험
   * 언어: __C, Python, C++__
   * 딥러닝: __Pytorch__
   * OS: __Linux, Windows__
-  * 웹: __HTML, CSS, JavaScript,FastAPI,__ node.js, 
+  * 웹: __HTML, CSS, JavaScript, FastAPI,__ node.js
+  * 앱: __React Native__
   * DB: SQLite
   * 도구: __Git, VS Code, Notion,__ VS
 
@@ -45,6 +48,7 @@ __백승우 (Seungwoo Baek)__
 ### 개발
 * (2021) 숭실대학교 웹/앱서비스 개발 경진대회 (1st)
 * (2022) Robotics 동계 해커톤 (2nd)
+* (2022) 숭실 캡스톤디자인 경진대회 (Encouragement)
     
 ### 기획
 * (2021) 글로벌 적정기술 창의설계 경진대회 (3th)
@@ -69,13 +73,17 @@ __백승우 (Seungwoo Baek)__
   * [동아리 위키 제작](http://www.sscc.space)
   * [동아리 홍보사이트 제작](https://ssccpromotion.xyz/)
   * 스마트동방 프로젝트 기획
-  * SSCC 아이디어톤 최우수상 
+  * SSCC 아이디어톤 최우수상
+    (교통 소외 지역에 거주하는 주민을 위한 예약 버스 통합 솔루션)
+  * 숭실 캡스톤디자인 경진대회 장려상
     (교통 소외 지역에 거주하는 주민을 위한 예약 버스 통합 솔루션)
     
   ### Robotics
   * [WVE](https://github.com/ika9810/WVE)
   * [스마트팜](https://swthewhite.github.io/SmartFarm/): [레포](https://github.com/SWtheWhite/SmartFarm)
-
+  * 숭실 캡스톤디자인 경진대회 장려상
+    (모듈형 커스터마이징 스마트팜, Your Farm)
+    
 ## 개인 프로젝트
   * [EigenFace](https://github.com/SWtheWhite/EigenFace)
 
