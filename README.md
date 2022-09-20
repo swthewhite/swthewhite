@@ -85,10 +85,10 @@ __백승우 (Seungwoo Baek)__
   * [스마트팜](https://swthewhite.github.io/SmartFarm/): [레포](https://github.com/SWtheWhite/SmartFarm)
   * 숭실 캡스톤디자인 경진대회 장려상
     (모듈형 커스터마이징 스마트팜, Your Farm)
+  * [새내기 해커톤 멘토 (밥친구 구하기)](https://github.com/SWtheWhite/no-alone-meal)
     
 ## 개인 프로젝트
   * [EigenFace](https://github.com/SWtheWhite/EigenFace)
-
 
 #### 연락
   - [Github Repo Issue](https://github.com/SwtheWhite/SwtheWhite/issues)
