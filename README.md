@@ -42,7 +42,7 @@ __백승우 (Seungwoo Baek)__
   * OS: __Linux, Windows__
   * 웹: __HTML, CSS, JavaScript, FastAPI,__ node.js
   * 앱: __React Native__
-  * DB: SQLite
+  * DB: __MySQL,__ SQLite
   * 도구: __Git, VS Code, Notion,__ VS
 
 ## 수상
@@ -51,11 +51,13 @@ __백승우 (Seungwoo Baek)__
 * (2021) 숭실대학교 웹/앱서비스 개발 경진대회 (1st)
 * (2022) Robotics 동계 해커톤 (2nd)
 * (2022) 숭실 캡스톤디자인 경진대회 (Encouragement)
+* (2023) SSCC 해커톤 (1st, 2nd)
     
 ### 기획
 * (2021) 글로벌 적정기술 창의설계 경진대회 (3th)
 * (2021) 스마트농업 인공지능 경진대회 - 아이디어 기획 (2nd)
 * (2022) SSCC 아이디어톤 (2nd)
+* (2023) LG CNS DX 아이디어 공모전 (Honorable Mention)
 
 
 
@@ -79,13 +81,16 @@ __백승우 (Seungwoo Baek)__
     (교통 소외 지역에 거주하는 주민을 위한 예약 버스 통합 솔루션)
   * 숭실 캡스톤디자인 경진대회 장려상
     (교통 소외 지역에 거주하는 주민을 위한 예약 버스 통합 솔루션)
+  * LG CNS DX 아이디어 공모전 인기상
+    (우리 아이 통학 안전을 위한 iBus System)
     
   ### Robotics
   * [WVE](https://github.com/ika9810/WVE)
   * [스마트팜](https://swthewhite.github.io/SmartFarm/): [레포](https://github.com/SWtheWhite/SmartFarm)
   * 숭실 캡스톤디자인 경진대회 장려상
     (모듈형 커스터마이징 스마트팜, Your Farm)
-  * [새내기 해커톤 멘토 (밥친구 구하기)](https://github.com/SWtheWhite/no-alone-meal)
+  * [밥친구 구하기](https://github.com/SWtheWhite/no-alone-meal)
+  * [Life2Cut](https://github.com/SWtheWhite/Life2Cut)
     
 ## 개인 프로젝트
   * [EigenFace](https://github.com/SWtheWhite/EigenFace)
