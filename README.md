@@ -8,6 +8,7 @@ __백승우 (Seungwoo Baek)__
 
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=SwtheWhite&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/SWtheWhite)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwtheWhite&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats)
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=swthewhite)](https://solved.ac/swthewhite)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SWtheWhite&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)  
 [![status](https://github-readme-streak-stats.herokuapp.com/?user=SWtheWhite)](#)
