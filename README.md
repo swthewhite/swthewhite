@@ -25,13 +25,15 @@ __백승우 (Seungwoo Baek)__
       (소 축산 농가를 위한 통합 헬스케어 시스템)
     * 동아리방 스마트팜 제작
     * 동아리 위키 제작
-  * (2022.01 ~ ) SSCC 고문
+  * (2022.01 ~ 2022.12) SSCC 고문
     * Python&WEB 스터디장
     * [동아리 위키 제작](http://www.sscc.space)
     * [동아리 홍보사이트 제작](https://ssccpromotion.xyz/)
     * 스마트동방 프로젝트 기획
     * SSCC 아이디어톤 최우수상 수상
     * 숭실 캡스톤디자인 경진대회 장려상 수상
+    * LG CNS DX 아이디어 공모전 인기상 수상
+    * SSCC 해커톤 대상, 최우수상 수상
   * (2022.06 ~ 2022.08) SSMOBILITY 현장실습
     * TensorFlowTTS 실습
     * 음성합성TTS Server 구축 (FastAPI with NaverCloud)
@@ -43,7 +45,7 @@ __백승우 (Seungwoo Baek)__
   * 웹: __HTML, CSS, JavaScript, FastAPI,__ node.js
   * 앱: __React Native__
   * DB: __MySQL,__ SQLite
-  * 도구: __Git, VS Code, Notion,__ VS
+  * 도구: __Git, IntelliJ, VS Code, Notion,__ VS, CLion
 
 ## 수상
 
