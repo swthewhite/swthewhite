@@ -86,7 +86,7 @@ __백승우 (Seungwoo Baek)__
     (교통 소외 지역에 거주하는 주민을 위한 예약 버스 통합 솔루션)
   * LG CNS DX 아이디어 공모전 인기상
     (우리 아이 통학 안전을 위한 iBus System)
-  * SSCC 해커톤 상
+  * SSCC 해커톤 대상
     (지금 동아리방에 몇명?, nCnt Machine)
   * SSCC 해커톤 최우수상
     (Aquaphonix, SmartFarm+FishBowl)
