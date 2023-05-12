@@ -38,6 +38,9 @@ __백승우 (Seungwoo Baek)__
   * (2022.06 ~ 2022.08) SSMOBILITY 현장실습
     * TensorFlowTTS 실습
     * 음성합성TTS Server 구축 (FastAPI with NaverCloud)
+  * (2022.11 ~ ) Palette BE+DBA
+    * Back-end Engineer (NestJS with GCP)
+    * Database Administer (ElasticSearch & MySQL)
 
 ## 경험
   * 언어: __C, Python, C++__
@@ -54,13 +57,13 @@ __백승우 (Seungwoo Baek)__
 * (2021) 숭실대학교 웹/앱서비스 개발 경진대회 (1st)
 * (2022) Robotics 동계 해커톤 (2nd)
 * (2022) 숭실 캡스톤디자인 경진대회 (Encouragement)
-* (2023) SSCC 해커톤 (1st, 2nd)
+* (2022) SSCC 해커톤 (1st, 2nd)
     
 ### 기획
 * (2021) 글로벌 적정기술 창의설계 경진대회 (3th)
 * (2021) 스마트농업 인공지능 경진대회 - 아이디어 기획 (2nd)
 * (2022) SSCC 아이디어톤 (2nd)
-* (2023) LG CNS DX 아이디어 공모전 (Honorable Mention)
+* (2022) LG CNS DX 아이디어 공모전 (Honorable Mention)
 
 
 
@@ -70,6 +73,14 @@ __백승우 (Seungwoo Baek)__
   ### C 프로그래밍 프로젝트
   * [야구 게임](https://github.com/SWtheWhite/C-Baseballproject)
   * [허들 게임](https://github.com/SWtheWhite/C-Hurdleproject)
+  ### Machine Learning
+  * MNIST 분류 모델
+  ### Artificial Neural Network
+  * EMNIST 분류 모델
+  ### Operating System
+  * 철도예매 시스템
+  ### Compiler
+  * 컴파일러
 
 ## 팀 프로젝트
   ### SSCC
@@ -90,6 +101,7 @@ __백승우 (Seungwoo Baek)__
     (지금 동아리방에 몇명?, nCnt Machine)
   * SSCC 해커톤 최우수상
     (Aquaphonix, SmartFarm+FishBowl)
+  * BMO the 인생한컷 with 영수증 
     
   ### Robotics
   * [WVE](https://github.com/ika9810/WVE)
@@ -98,6 +110,10 @@ __백승우 (Seungwoo Baek)__
     (모듈형 커스터마이징 스마트팜, Your Farm)
   * [밥친구 구하기](https://github.com/SWtheWhite/no-alone-meal)
   * [Life2Cut](https://github.com/SWtheWhite/Life2Cut)
+  
+  ### Palette
+  * NestJS기반 Back-end
+  * ElasticSearch 
     
 ## 개인 프로젝트
   * [EigenFace](https://github.com/SWtheWhite/EigenFace)
