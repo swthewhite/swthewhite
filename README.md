@@ -1,17 +1,17 @@
-# SW Baek (SWtheWhite)
+# SW Baek (swthewhite)
 
 __백승우 (Seungwoo Baek)__
   * 이것저것 해보는 중
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSwtheWhite&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Github Followers](https://img.shields.io/github/followers/SwtheWhite?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/SWtheWhite?tab=followers)
+[![Github Followers](https://img.shields.io/github/followers/swthewhite?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/swthewhite?tab=followers)
 
-[![Github Profile](https://github-readme-stats.vercel.app/api?username=SwtheWhite&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/SWtheWhite)
+[![Github Profile](https://github-readme-stats.vercel.app/api?username=SwtheWhite&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/swthewhite)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwtheWhite&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats)
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=swthewhite)](https://solved.ac/swthewhite)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SWtheWhite&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)  
-[![status](https://github-readme-streak-stats.herokuapp.com/?user=SWtheWhite)](#)
+[![trophy](https://github-profile-trophy.vercel.app/?username=swthewhite&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)  
+[![status](https://github-readme-streak-stats.herokuapp.com/?user=swthewhite)](#)
 
 ## 학교
   * (2018 ~ ) 숭실대학교 전자정보공학부 IT융합전공
@@ -71,8 +71,8 @@ __백승우 (Seungwoo Baek)__
 
 ## [교과 프로젝트](http://infocom.ssu.ac.kr/kor/undergraduate/0203.php)
   ### C 프로그래밍 프로젝트
-  * [야구 게임](https://github.com/SWtheWhite/C-Baseballproject)
-  * [허들 게임](https://github.com/SWtheWhite/C-Hurdleproject)
+  * [야구 게임](https://github.com/swthewhite/C-Baseballproject)
+  * [허들 게임](https://github.com/swthewhite/C-Hurdleproject)
   ### Machine Learning
   * MNIST 분류 모델
   ### Artificial Neural Network
@@ -105,21 +105,21 @@ __백승우 (Seungwoo Baek)__
     
   ### Robotics
   * [WVE](https://github.com/ika9810/WVE)
-  * [스마트팜](https://swthewhite.github.io/SmartFarm/): [레포](https://github.com/SWtheWhite/SmartFarm)
+  * [스마트팜](https://swthewhite.github.io/SmartFarm/): [레포](https://github.com/swthewhite/SmartFarm)
   * 숭실 캡스톤디자인 경진대회 장려상
     (모듈형 커스터마이징 스마트팜, Your Farm)
-  * [밥친구 구하기](https://github.com/SWtheWhite/no-alone-meal)
-  * [Life2Cut](https://github.com/SWtheWhite/Life2Cut)
+  * [밥친구 구하기](https://github.com/swthewhite/no-alone-meal)
+  * [Life2Cut](https://github.com/swthewhite/Life2Cut)
   
   ### Palette
   * NestJS기반 Back-end
   * ElasticSearch 
     
 ## 개인 프로젝트
-  * [EigenFace](https://github.com/SWtheWhite/EigenFace)
+  * [EigenFace](https://github.com/swthewhite/EigenFace)
 
 #### 연락
-  - [Github Repo Issue](https://github.com/SwtheWhite/SwtheWhite/issues)
+  - [Github Repo Issue](https://github.com/swthewhite/swthewhite/issues)
   - [Email](mailto:swthewhite@gmail.com)
 
 
