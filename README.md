@@ -14,11 +14,12 @@ __백승우 (Seungwoo Baek)__
 [![status](https://github-readme-streak-stats.herokuapp.com/?user=swthewhite)](#)
 
 ## 학교
-  * (2018 ~ ) 숭실대학교 전자정보공학부 IT융합전공
+  * (2018 ~ 2024) 숭실대학교 전자정보공학부 IT융합전공
 
 ## 활동
-  * (2018 ~ ) 숭실대학교 전자정보공학부 소모임 Robotics
-  * (2018 ~ ) 숭실대학교 컴퓨터 중앙동아리 SSCC 
+  * (2024.01 ~ ) 삼성 청년 SW 아카데미, SSAFY 11th - Embedded Track
+  * (2018 ~ 2024) 숭실대학교 전자정보공학부 소모임 Robotics
+  * (2018 ~ 2024) 숭실대학교 컴퓨터 중앙동아리 SSCC 
   * (2021.01 ~ 2021.12) __SSCC 39대 회장__
     * C/Python 스터디장
     * 동아리 홈페이지 기획
@@ -38,7 +39,7 @@ __백승우 (Seungwoo Baek)__
   * (2022.06 ~ 2022.08) SSMOBILITY 현장실습
     * TensorFlowTTS 실습
     * 음성합성TTS Server 구축 (FastAPI with NaverCloud)
-  * (2022.11 ~ ) Palette BE+DBA
+  * (2022.11 ~ 2023.04) Palette BE+DBA
     * Back-end Engineer (NestJS with GCP)
     * Database Administer (ElasticSearch & MySQL)
 
@@ -46,10 +47,10 @@ __백승우 (Seungwoo Baek)__
   * 언어: __C, Python, C++__
   * 딥러닝: __Pytorch__
   * OS: __Linux, Windows__
-  * 웹: __HTML, CSS, JavaScript, FastAPI,__ node.js
-  * 앱: __React Native__
-  * DB: __MySQL,__ SQLite
-  * 도구: __Git, IntelliJ, VS Code, Notion,__ VS, CLion
+  * 웹: __FastAPI, VueJS, HTML, CSS, JavaScript,__ node.js
+  * 앱: React Native
+  * DB: __MySQL,__ ElasticSearch, SQLite
+  * 도구: __Git, IntelliJ, VS Code, Visual Studio, Notion, Discord,__ CLion
 
 ## 수상
 
@@ -88,8 +89,8 @@ __백승우 (Seungwoo Baek)__
   * [스마트농업 인공지능 경진대회 최우수상 수상](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=001&oid=003&aid=0010840259)
     (소 축산 농가를 위한 통합 헬스케어 시스템)
   * 동아리방 스마트팜 제작
-  * [동아리 위키 제작](http://www.sscc.space)
-  * [동아리 홍보사이트 제작](https://ssccpromotion.xyz/)
+  * 동아리 위키 제작
+  * [동아리 홍보사이트 제작](https://github.com/SoongSilComputingClub/2022-Promotion)
   * 스마트동방 프로젝트 기획
   * SSCC 아이디어톤 최우수상
     (교통 소외 지역에 거주하는 주민을 위한 예약 버스 통합 솔루션)
@@ -105,11 +106,11 @@ __백승우 (Seungwoo Baek)__
     
   ### Robotics
   * [WVE](https://github.com/ika9810/WVE)
-  * [스마트팜](https://swthewhite.github.io/SmartFarm/): [레포](https://github.com/swthewhite/SmartFarm)
+  * [스마트팜](https://robotics-official.github.io/2022-1Q-Project-SmartFarm_Front/): [레포](https://github.com/Robotics-official/2022-1Q-Project-SmartFarm_Arduino)
   * 숭실 캡스톤디자인 경진대회 장려상
     (모듈형 커스터마이징 스마트팜, Your Farm)
   * [밥친구 구하기](https://github.com/swthewhite/no-alone-meal)
-  * [Life2Cut](https://github.com/swthewhite/Life2Cut)
+  * [Life2Cut](https://github.com/Robotics-official/2023-1Q-Project-Life2Cut)
   
   ### Palette
   * NestJS기반 Back-end
