@@ -1,5 +1,12 @@
 <div align="center">
   <h2>백승우 <sub><i>Seungwoo Baek</i></sub></h2>
+  <!--
+  <p display="flex" justify-content="center" align-items="center">
+    <img src="https://www.emojiall.com/images/120/microsoft-teams/1f970.png" width="2%">
+    소통이 잘 되는 <b>코드와 글</b>을 작성하려고 노력합니다
+    <img src="https://www.emojiall.com/images/240/microsoft-teams/1f917.png" width="2%">
+  </p>
+  -->
   <a href="https://whitenworld.tistory.com/"><img src="https://img.shields.io/badge/Tistory-E5511E?style=badge&logo=Tistory&logoColor=white"/></a>
   <a href="https://github.com/swthewhite-lab"><img src="https://img.shields.io/badge/%F0%9F%A7%AA_Lab-47c98c"/></a>
   <!--
