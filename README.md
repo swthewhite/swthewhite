@@ -1,8 +1,7 @@
 <div align="center">
   <h2>백승우 <sub><i>Seungwoo Baek</i></sub></h2>
   <a href="https://whitenworld.tistory.com/"><img src="https://img.shields.io/badge/Tistory-E5511E?style=badge&logo=Tistory&logoColor=white"/></a>
-  <a href="https://github.com/swthewhite-lab"><img src="https://img.shields.io/badge/%F0%9F%A7%AA_Lab-47c98c
-  "></a>
+  <a href="https://github.com/swthewhite-lab"><img src="https://img.shields.io/badge/%F0%9F%A7%AA_Lab-47c98c"/></a>
   <!--
   <a href="./"><img src="https://img.shields.io/badge/Resume-3160EB?style=badge&logo=Notion&logoColor=white"/></a>
   -->
