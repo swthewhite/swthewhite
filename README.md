@@ -7,7 +7,9 @@
       소통이 잘 되는 <b>코드와 글</b>을 작성하려고 노력합니다
       <img src="https://www.emojiall.com/images/240/microsoft-teams/1f917.png" width="2%">
     </p>
-    <p><sub>現)</sub> SSAFY 11th Embedded Track <b>(2024.01 ~ )</b></p>
+    <!--
+    <p><sub>前)</sub> SSAFY 11th Embedded Track <b>(2024.01 ~ 2024.11)</b></p>
+    -->
   </div>
 
   <a href="https://whitenworld.tistory.com/"><img src="https://img.shields.io/badge/Tistory-E5511E?style=badge&logo=Tistory&logoColor=white"/></a>
