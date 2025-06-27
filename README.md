@@ -14,7 +14,6 @@
 
   <a href="https://whitenworld.tistory.com/"><img src="https://img.shields.io/badge/Tistory-E5511E?style=badge&logo=Tistory&logoColor=white"/></a>
   <a href="https://github.com/swthewhite-lab"><img src="https://img.shields.io/badge/%F0%9F%A7%AA_Lab-47c98c"/></a>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSwtheWhite&count_bg=%233D49C8&title_bg=%23212020&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
   <!--
   <a href="./"><img src="https://img.shields.io/badge/Resume-3160EB?style=badge&logo=Notion&logoColor=white"/></a>
   -->
