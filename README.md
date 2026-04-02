@@ -17,7 +17,7 @@
   <!--
   <a href="./"><img src="https://img.shields.io/badge/Resume-3160EB?style=badge&logo=Notion&logoColor=white"/></a>
   -->
-  <a href="https://github.com/swthewhite"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=swthewhite&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
+  <a href="https://github.com/swthewhite"><img alt="GitHub Status" src="https://github-readme-stats-gilt-delta-44.vercel.app/api?username=swthewhite&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
 </div>
 
 <!--
